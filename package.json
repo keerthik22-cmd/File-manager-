@@ -1,0 +1,26 @@
+{
+  "name": "file-manager-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filemanage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node filemanage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthik22-cmd/File-manager-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/keerthik22-cmd/File-manager-/issues"
+  },
+  "homepage": "https://github.com/keerthik22-cmd/File-manager-#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
